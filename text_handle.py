@@ -10,5 +10,4 @@ body = str.strip("https://www.notion.so/")
 back = body[::-1]
 part1,sep,part2 = back.partition("-")
 clientName = part2[::-1]
-print(clientName)
-
+#print(clientName)

@@ -130,3 +130,4 @@ dmypy.json
 
 # no csv files
 *.csv
+*.swp
